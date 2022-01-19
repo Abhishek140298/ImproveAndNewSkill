@@ -20,8 +20,10 @@ const Login = () => {
             <span className='login_check_span'>Forget Password?</span>
           </div>
 					<div className='login_button_div'><button className='login_button'>Login</button></div>
+							<div className='signup_option'>Create Account</div>
 					<span className='login_option_span'>Or<br/> Login With </span>
 					<div className='login_different_options'>Options will be here</div>
+			
         </div>
       </div>
     </div>

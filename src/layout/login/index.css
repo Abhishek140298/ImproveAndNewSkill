@@ -8,7 +8,7 @@
 .login_view_suv_div {
   display: flex;
   background-image: url('https://whmcsglobalservices.com/wp-content/uploads/2018/09/login-bg.jpg');
-  margin: 30px;
+  margin: 40px;
   padding: 80px;
   opacity: 0.6;
 }
@@ -90,6 +90,13 @@
   display: flex;
   justify-content: center;
   margin-top: 30px;
+}
+.signup_option {
+  display: flex;
+  justify-content: end;
+  font-size: 15px;
+  margin-top: 15px;
+  color: blue;
 }
 @media screen and (max-width: 700px) and (max-height: 500px) {
   .heading_div {
