@@ -1,0 +1,51 @@
+.signup_main_div {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('https://whmcsglobalservices.com/wp-content/uploads/2018/09/login-bg.jpg');
+  opacity: 0.8;
+}
+.signup_details_page {
+  padding: 15px 20px 20px 30px;
+  border-radius: 10px;
+  min-width: 350px;
+  background-color: white;
+  opacity: 0.9;
+  box-shadow: 0px 0px 2px 2px white;
+}
+.signup_detail_box {
+  display: flex;
+  flex-direction: column;
+}
+.signup_details {
+  width: inherit;
+  margin-top: 30px;
+  height: 4vh;
+  outline: none;
+  border: 0.5px solid rgb(175, 175, 175);
+  border-radius: 2px;
+}
+.singup_checkbox_box {
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+.signup_button_details {
+  margin-top: 20px;
+}
+.signup_button {
+  border: none;
+  background-color: blue;
+  border-radius: 2px;
+  color: white;
+  padding: 5px;
+}
+.signup_head {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-bottom: 12px;
+  margin-top: 10px;
+}
+/*Mobile view css*/
