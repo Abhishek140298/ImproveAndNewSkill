@@ -1,0 +1,20 @@
+.upper_nav_div {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 15px;
+  box-shadow: 0px 0px 0px 5px rgb(255, 253, 253);
+  position: fixed;
+
+  width: 100vw;
+}
+.uper_nav_head {
+  font-size: 20px;
+}
+.user_details {
+  margin-right: 30px;
+  display: flex;
+  justify-content: end;
+
+  background-color: blue;
+}

@@ -1,0 +1,22 @@
+.side_nav_main_div {
+  padding: 10px 20px 10px 20px;
+  box-shadow: 0px 0px 2px 2px white;
+}
+.area_of_interest_div {
+}
+.interest_field {
+}
+.add_interest_area {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.add_interest_button {
+  margin-bottom: 20px;
+}
+.interest_name_input {
+  max-width: 170px;
+}
+hr {
+  margin-top: 30px;
+}
